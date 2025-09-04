@@ -27,7 +27,7 @@ def hello():
     """Return a friendly HTTP greeting.
 
     Returns:
-        A string with the words 'Hello World!'.
+        A string with the words 'Hello World from Sakshi!'.
     """
     return "Hello World from Sakshi!"
 
